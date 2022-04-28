@@ -3,13 +3,15 @@
     <head>
         <link rel="icon" href="images/icon.ico">
         <title>ホーム | BoundFore</title>
-        <link rel="stylesheet" href="../Style/index.css">
+        <link rel="stylesheet" href="Style/index.css">
+  		<script src="interactivemap/mapdata.js"></script>
+  		<script src="interactivemap/continentmap.js"></script>
     </head>
     <body>
         <div class="header">
             <div class="inner-container">
                 <div class="logo">
-                    <a class="boundFore" href="">BoundFore</a> 
+                    <a class="boundFore" href="">BoundFore</a>
                     <a class="logo-word" href="">留学生活情報サイト</a>
                  </div>
                  <div class="navigation">
@@ -20,9 +22,9 @@
                         <a href="website/contact.html">お問い合わせ</a>
                      </ul>
                      <ul>
-                        <img src="/images/facebook_white.png" alt="">
-                        <img src="/images/twitter_white.png" alt="">
-                        <img src="/images/linkin_white.png" alt="">
+                        <img src="images/facebook_white.png" alt="">
+                        <img src="images/twitter_white.png" alt="">
+                        <img src="images/linkin_white.png" alt="">
                      </ul>
                  </div>
             </div>
@@ -48,29 +50,7 @@
             <h2>Your Mind is Bound For...???</h2>
         </div>
 
-        <div class="continent-container">
-            <img src="images/maps/asia_map.jpg" alt="">
-            <div id="text-bolck-asia">
-                <h3>Asia</h3>
-                <button onclick="location.href='website/asia.html'">Search</button>
-            </div>
-        </div>
-
-        <div class="continent-container">
-            <img src="images/maps/europe_map.jpg" alt="">
-            <div id="text-bolck-europe">
-                <h3>Europe</h3>
-                <button onclick="location.href='website/europe.html'">Search</button>
-            </div>
-        </div>
-
-        <div class="continent-container">
-            <img src="images/maps/north_america_map.jpg" alt="">
-            <div id="text-bolck-north-america">
-                <h3>North America</h3>
-                <button onclick="location.href='website/north_america.html'">Search</button>
-            </div>
-        </div>
+        <div id="map" style="display:block;margin:0px auto;"></div>
         <footer>
             <div id="copy-right">
                 &copy; 2022 by BoundFore
