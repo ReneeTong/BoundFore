@@ -152,7 +152,7 @@ img{
 .article{
     display: inline-block;
     width: 400px;
-    height: 400px;
+    /* height: 300px; */
     border: 2px solid #16132C;
     margin-top: 50px;
     /* position: relative; */
