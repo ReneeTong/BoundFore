@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html>
 
 <head>
@@ -22,7 +22,7 @@
 
         <!-- UK -->
         <div class="country">
-            <a href="../website/europe/uk.html">
+            <a href="../website/europe/uk.php">
                 <img src="/images/europe_flags/UK.png" alt="" class="image">
                 <h3>イギリス</h3>
             </a>
@@ -30,7 +30,7 @@
 
         <!-- france -->
         <div class="country">
-            <a href="../website/europe/sweden.html">
+            <a href="../website/europe/sweden.php">
                 <img src="/images/europe_flags/france.png" alt="" class="image">
                 <h3>フランス<br>Coming Soon</h3>
             </a>
@@ -38,7 +38,7 @@
 
         <!-- german -->
         <div class="country">
-            <a href="../website/europe/sweden.html">
+            <a href="../website/europe/sweden.php">
                 <img src="/images/europe_flags/german.png" alt="" class="image">
                 <h3>ドイツ<br>Coming Soon</h3>
             </a>
@@ -46,7 +46,7 @@
 
         <!-- italy -->
         <div class="country">
-            <a href="../website/europe/sweden.html">
+            <a href="../website/europe/sweden.php">
                 <img src="/images/europe_flags/italy.png" alt="" class="image">
                 <h3>イタリア<br>Coming Soon</h3>
             </a>
@@ -54,7 +54,7 @@
 
         <!-- sweden -->
         <div class="country">
-            <a href="../website/europe/sweden.html">
+            <a href="../website/europe/sweden.php">
                 <img src="/images/europe_flags/sweden.png" alt="" class="image">
                 <h3>スウェーデン</h3>
             </a>
@@ -62,7 +62,7 @@
 
         <!-- Lativia -->
         <div class="country">
-            <a href="../website/europe/latvia.html">
+            <a href="../website/europe/latvia.php">
                 <img src="/images/europe_flags/lativia.png" alt="" class="image">
                 <h3>ラトビア</h3>
             </a>
@@ -70,7 +70,7 @@
 
         <!-- hungry-->
         <div class="country">
-            <a href="../website/europe/hungary.html">
+            <a href="../website/europe/hungary.php">
                 <img src="/images/europe_flags/hungry.png" alt="" class="image">
                 <h3>ハンガリー</h3>
             </a>
@@ -78,7 +78,7 @@
 
         <!-- Lithuania -->
         <div class="country">
-            <a href="../website/europe/lithuania.html">
+            <a href="../website/europe/lithuania.php">
                 <img src="/images/europe_flags/lithuania.png" alt="" class="image">
                 <h3>リトアニア</h3>
             </a>
