@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -22,9 +22,9 @@
 
         <!-- UK -->
         <div class="country">
-            <a href="../website/europe/uk.php">
+            <a href="">
                 <img src="/images/europe_flags/UK.png" alt="" class="image">
-                <h3>イギリス</h3>
+                <h3>イギリス<br>Coming Soon</h3>
             </a>
         </div>
 

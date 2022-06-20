@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="icon" href="../images/icon.ico">
-    <title>Europe | BoundFore</title>
+    <title>North America | BoundFore</title>
     <link rel="stylesheet" href="../Style/country.css">
 </head>
 
@@ -22,7 +22,7 @@
 
         <!-- california -->
         <div class="country">
-            <a href="../website/north_america/california.html">
+            <a href="../website/north_america/california.php">
                 <img src="/images/north_america_flags/san-francisco.jpg" alt="" class="image">
                 <h3>California</h3>
             </a>
@@ -30,7 +30,7 @@
 
         <!-- utah -->
         <div class="country">
-            <a href="../website/north_america/utah.html">
+            <a href="../website/north_america/utah.php">
                 <img src="/images/north_america_flags/utah.jpg" alt="" class="image">
                 <h3>Utah</h3>
             </a>
@@ -38,7 +38,7 @@
 
         <!-- wisconsin -->
         <div class="country">
-            <a href="../website/north_america/wisconsin.html">
+            <a href="../website/north_america/wisconsin.php">
                 <img src="/images/north_america_flags/wisconsin_city.jpg" alt="" class="image">
                 <h3>Wisconsin</h3>
             </a>
@@ -46,7 +46,7 @@
 
         <!-- massachusetts -->
         <div class="country">
-            <a href="../website/north_america/massachusetts.html">
+            <a href="../website/north_america/massachusetts.php">
                 <img src="/images/city/massachusetts_city.jpg" alt="" class="image">
                 <h3>Massachusetts</h3>
             </a>

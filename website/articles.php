@@ -44,53 +44,6 @@
             </a>
         </div>
 
-        <div class="article">
-            <a href="../website/articles/study_abroad.php">
-                <div class="image-container">
-                    <img src="/images/article_images/europe_travel.jpg" alt="" class="image">
-                </div>
-                <div class="text-container">
-                    <h3>ヨーロッパに留学するメリット・デメリット</h3>
-                    <h4>date of published</h4>
-                </div>
-            </a>
-        </div>
-
-        <div class="article">
-            <a href="../website/articles/study_abroad.php">
-                <div class="image-container">
-                    <img src="/images/article_images/europe_travel.jpg" alt="" class="image">
-                </div>
-                <div class="text-container">
-                    <h3>ヨーロッパに留学するメリット・デメリット</h3>
-                    <h4>date of published</h4>
-                </div>
-            </a>
-        </div>
-
-        <div class="article">
-            <a href="../website/articles/study_abroad.php">
-                <div class="image-container">
-                    <img src="/images/article_images/europe_travel.jpg" alt="" class="image">
-                </div>
-                <div class="text-container">
-                    <h3>ヨーロッパに留学するメリット・デメリット</h3>
-                    <h4>date of published</h4>
-                </div>
-            </a>
-        </div>
-
-        <div class="article">
-            <a href="../website/articles/study_abroad.php">
-                <div class="image-container">
-                    <img src="/images/article_images/europe_travel.jpg" alt="" class="image">
-                </div>
-                <div class="text-container">
-                    <h3>ヨーロッパに留学するメリット・デメリット</h3>
-                    <h4>date of published</h4>
-                </div>
-            </a>
-        </div>
     </div>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/php/footer.php') ?>
 </body>

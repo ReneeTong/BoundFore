@@ -79,9 +79,9 @@
       <div class="person">
         <img src="/images/profile/renee.JPG" alt="" class="image">
         <div class="text_container">
-          <h3>Renee</h3>
+          <h3>Chocolate</h3>
           <p>
-            Hi
+            Hi, I am from China, I am the progrmmer of this website. I am very excited to join this project. Hope everyone enjory it.
           </p>
         </div>
       </div>

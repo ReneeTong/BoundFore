@@ -21,19 +21,20 @@
                 <ul>
                     <a href="#part_one">Part 1</a>
                     <a href="#part_two">Part 2</a>
-                    <a href="">Universities</a>
+                    <a href="#university">Universities</a>
                 </ul>
             </div>
         </div>
 
-        <div class="body-container">
+        <!-- <div class="body-container" id="part_one"> -->
 
-        <div class="body-container">
+        <div class="body-container" id="part_one">
             <div class="text-container">
                 <h3 >- Race demographic (2020年現在)</h3>
                 <p>
                     <img src="/images/charts/sweden_race.png" alt="">
                     街を歩いていてもさまざまな民族の人を見かけます。イスラム教のベールを被る女性や異なる民族のカップルなど、ぱっと見て分かるほど人種が多様な国です。コンビニや飲食店でも、多くの移民の人たちが働いています
+                    <br> <a href="https://www.indexmundi.com/sweden/demographics_profile.html">https://www.indexmundi.com/sweden/demographics_profile.html</a> (population, race demographic)
                 </p>
             </div>
 
@@ -83,7 +84,7 @@
             </div>
 
             <div class="text-container">
-                <h3 id="part_two">- Climate</h3>
+                <h3 >- Climate</h3>
                 <p>
                     ヨーロッパの北に位置し、日本に比べると一年を通して涼しいです。
                     <br>夏：日照時間が長く、夏至の日には日が22時過ぎにやっと沈みます。天候は夏でもあまり芳しくなく、真夏と呼べる日は一週間程度しか続きません。キャンプや水泳など、アウトドアを楽しみましょう。
@@ -93,6 +94,15 @@
 
                 </p>
             </div>
+
+            <div class="text-container">
+                <h3 id="part_two">- Culture/History</h3>
+                <p>
+                    ノルマン人の小国家が統一され、10世紀末に統一国家が成立しました。9〜11世紀半ばに活躍したヴァイキングも有名ですね。また、ストックホルムのヴァーサミュージアムでは、1628年に沈没した巨大なヴァーサ号と同時代のスウェーデン人の様子について知ることができます。工芸品では、ダーラナホース（Dalahäst）という、ダーラナ地方で作られる木彫りの馬が有名です。スウェーデン料理は、IKEAでも食べられるミートボールや甘いケーキ、シナモンロールが有名ですね。特にシナモンロールはどのカフェでも味わえるほどの人気者で、シナモンロールの日 (10/4) もあります。また、スウェーデンの文化で外せないのはFikaです。Fikaとは、朝食とお昼ご飯の間、そしておやつの時間に複数人で集まってコーヒーを飲みながらお菓子と会話を楽しむ習慣です。友人を誘うときには、Let’s have a Fika together!と誘ってみてください！きっと喜んで応じてくれるはずです。
+                </p>
+            </div>
+
+            <!-- part two -->
 
             <div class="text-container">
                 <h3 >- Transportation/Public Security</h3>
@@ -105,28 +115,12 @@
             </div>
 
             <div class="text-container">
-                <h3>- Culture/History</h3>
-                <p>
-                    ノルマン人の小国家が統一され、10世紀末に統一国家が成立しました。9〜11世紀半ばに活躍したヴァイキングも有名ですね。また、ストックホルムのヴァーサミュージアムでは、1628年に沈没した巨大なヴァーサ号と同時代のスウェーデン人の様子について知ることができます。工芸品では、ダーラナホース（Dalahäst）という、ダーラナ地方で作られる木彫りの馬が有名です。スウェーデン料理は、IKEAでも食べられるミートボールや甘いケーキ、シナモンロールが有名ですね。特にシナモンロールはどのカフェでも味わえるほどの人気者で、シナモンロールの日 (10/4) もあります。また、スウェーデンの文化で外せないのはFikaです。Fikaとは、朝食とお昼ご飯の間、そしておやつの時間に複数人で集まってコーヒーを飲みながらお菓子と会話を楽しむ習慣です。友人を誘うときには、Let’s have a Fika together!と誘ってみてください！きっと喜んで応じてくれるはずです。
-                </p>
-            </div>
-
-            <div class="text-container">
                 <h3>- Higher education</h3>
                 <p>
                     スウェーデンの学校は9月から始まります。大学の制度が特徴的で、基本的に1学期にとれる授業は最大で４つ、同時並行でとれる授業は最大で2つという、日本とかなり異なる授業の取り方をします。反対に言えば、その分、1つの事柄について集中して学ぶことができます。こちらの記事では、スウェーデンの教育制度についての説明が詳しく説明されています。「スウェーデン大学生活1年間の流れ　学期制度と試験を留学生が解説！」
                     <br><a href="https://uueuro.com/swede-academic-calender/">https://uueuro.com/swede-academic-calender/</a>
                 </p>
             </div>
-
-            <div class="text-container">
-                <h3>- 参考文献</h3>
-                <p>
-                    <a href="https://www.indexmundi.com/sweden/demographics_profile.html">https://www.indexmundi.com/sweden/demographics_profile.html</a> (population, race demographic)
-                </p>
-            </div>
-
-            <h4>・生活destined</h4>
 
             <div class="text-container">
                 <h3>- Phone plan</h3>
@@ -150,32 +144,13 @@
             </div>
 
             <div class="text-container">
-                <h3>- 事後情報（＋α情報）</h3>
-                <p>
-                    大学に日本語学科がある場合、授業のアシスタントなどのお誘いを受けることがあるかもしれません。筆者の留学先地域には日本語の授業がある高校があり、そこでボランティアをする機会がありました。また、地域のイベントのボランティアに参加してみるのもよいかもしれません。筆者はレインボープライドに英語ボランティアとして参加しましたが、学校以外のつながりが広がって、とても良い経験になりました。
-                </p>
-            </div>
-
-            <div class="text-container">
-                <h3>- Events</h3>
+                <h3 id="university">- Events</h3>
                 <p>
                     スウェーデンを含めたヨーロッパでは、クリスマスは大切なイベントです。特に家族で集まるイベントという意識が強く、他国から来ていた留学生の多くは実家に一時帰省していました。暗くなるにつれて街中のイルミネーションが増え、クリスマスが近づくわくわく感を楽しむことができます。また、クリスマス前にはルシア祭というスウェーデンの伝統的な日があります。ろうそくを持ちルシアに扮した少女を囲んで、ルシアの美しいハーモニーを聴くことができます。（イタリアのルシアの歌を音楽の授業で歌った方もいるのではないでしょうか。あの曲と同じメロディーです。）反対に正月はかなりさらっと終わります。筆者を含む多くの日本人留学生は国外でニューイヤーを迎えていました。夏のイベントには、ミッドサマーがあります。その名の通り夏至近くに行われ、家族や友人と郊外のコテージに集まり、歌ったり踊ったりしながら夏の到来を祝います。また、ミッドサマーは毎年だいたい天候がすぐれないことで有名です。
                 </p>
             </div>
 
-            <div class="text-container">
-                <h3>- Things you should buy</h3>
-                <p>
-                    ・マフラー、手袋、ジャケット（かさばるので現地購入でも可。しっかりとしている分高価なのでセカンドハンドやアウトレットを活用してできるだけ安く手に入れましょう。）
-                    <br>・コンセント変換プラグ（タイプc）
-                    <br>・電圧に気を付けたドライヤー、その他電化製品（現地購入も可）
-                    <br>・薬や生理用品等は、自分に合ったものを持参するとよいでしょう。
-                    <br>コンタクト洗浄液は現地で購入できます。
-                    <br>etc
-                </p>
-            </div>
-
-            <h4 id="universities">・各大学（詳細情報）</h4>
+            <!-- university -->
 
             <div class="text-container">
                 <h3>- University of Gothenburg</h3>
