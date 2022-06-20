@@ -22,9 +22,9 @@
     <div class="table-of-content">
         <div>
             <ul>
-                <a href="#part_one">Part 1</a>
+                <!-- <a href="#part_one">Part 1</a>
                 <a href="#part_two">Part 2</a>
-                <a href="">Universities</a>
+                <a href="">Universities</a> -->
             </ul>
         </div>
     </div>

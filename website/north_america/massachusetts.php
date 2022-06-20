@@ -24,19 +24,17 @@
             <ul>
                 <a href="#part_one">Part 1</a>
                 <a href="#part_two">Part 2</a>
-                <a href="">Universities</a>
+                <!-- <a href="#university">Universities</a> -->
             </ul>
         </div>
     </div>
 
-    <div class="body-container">
+    <div class="body-container" id="part_one">
 
         <div class="body-container">
 
             <div class="text-container">
-                <h3>- Area</h3>
                 <p>
-                    マサチューセッツ州
                     <br>※サウス・ハードリーという地域と大学の現地情報が主なので、マサチューセッツ州のほかの地域とは異なる可能性があります。                    
             </div>
 
@@ -58,13 +56,6 @@
             </div>
 
             <div class="text-container">
-                <h3>- Language</h3>
-                <p>
-                    英語
-                </p>
-            </div>
-
-            <div class="text-container">
                 <h3>- Political view</h3>
                 <p>
                     民主党が強い州のひとつです。人々の政治への関心は高く、政治に関する話題がよく日常会話の中で出てきます。
@@ -79,11 +70,13 @@
             </div>
 
             <div class="text-container">
-                <h3>- Climate　</h3>
+                <h3 id="part_two">- Climate　</h3>
                 <p>
                     冬は雨や雪など、急な天候変化があります。雨のアラートが発動することもしばしば。最高気温が０度になるなど、かなり寒いです。太陽は4時ぐらいに落ちます。春と秋は長くはないですが、秋には紅葉を見ることができます。落ち葉が多すぎて、落ち葉払いの人が落ち葉をはらっています。夏は暑く、湿度も日本ほどではないものの、高いです。
                 </p>
             </div>
+
+            <!-- part 2 -->
 
             <div class="text-container">
                 <h3>- Transportation/Public Security</h3>
@@ -93,8 +86,6 @@
                     <br>治安はとてもよく、夜に一人で歩ける程度です。ですが、万が一のために護身アイテムがあってもOK。                    
                 </p>
             </div>
-
-            <h4>・生活destined</h4>
 
             <div class="text-container">
                 <h3>- Access from near airport</h3>
@@ -110,10 +101,8 @@
                 </p>
             </div>
 
-            <h4>・各大学（詳細情報）</h4>
-
             <div class="text-container">
-                <h3>- University of Wisconsin Stout</h3>
+                <h3>- Mount Holyoke College </h3>
                 <p>
                     Mount Holyoke College 
                     <br><a href="https://www.mtholyoke.edu/">Home-Mount Holyoke College (https://www.mtholyoke.edu/)</a>

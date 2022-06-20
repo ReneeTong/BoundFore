@@ -21,15 +21,15 @@
             <div>
                 <ul>
                     <a href="#part_one">Part 1</a>
-                    <a href="#part_two">Part 2</a>
-                    <a href="">Universities</a>
+                    <!-- <a href="#part_two">Part 2</a>
+                    <a href="#university">Universities</a> -->
                 </ul>
             </div>
         </div>
 
-        <div class="body-container">
+        <!-- <div class="body-container"> -->
 
-        <div class="body-container">
+        <div class="body-container" id="part_one">
             <div class="text-container">
                 <h3 >- Race demographic (2020年現在)</h3>
                 <p>

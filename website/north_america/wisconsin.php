@@ -24,12 +24,12 @@
             <ul>
                 <a href="#part_one">Part 1</a>
                 <a href="#part_two">Part 2</a>
-                <a href="">Universities</a>
+                <a href="#university">Universities</a>
             </ul>
         </div>
     </div>
 
-    <div class="body-container">
+    <div class="body-container" id="part_one">
 
         <div class="body-container">
             <div class="text-container">
@@ -72,11 +72,13 @@
             </div>
 
             <div class="text-container">
-                <h3>- Climate　</h3>
+                <h3 id="part_two">- Climate　</h3>
                 <p>
                     湖に面しており四季の自然が体験できます。冬は11月頃から雪が降り始め、－30度になることもあります。道の整備はされているのですが道路が凍結しているので歩く際は気を付けましょう。一方で室内は暖房が効いているので暑いジャケットに体温調節しやすい服を着るのが現地の人のスタイルです。ウィンタースポーツも盛んです。
                 </p>
             </div>
+
+            <!-- part 2 -->
 
             <div class="text-container">
                 <h3>- Transportation/Public Security</h3>
@@ -95,9 +97,7 @@
                     アメリカ人建築家、フランク・ロイド・ライトの出身地です。彼が手がけた9つの建築物を観光できるスポットがあります。ビールが有名なのでジャズバーやバーなどがあちこちにあります。
                     <br>ドライブスポットとしても有名で、グレート・リバー・ロードは「一度は体験したいロードトリップ」の一つに選ばれました。
                 </p>
-            </div>
-
-            <h4>・生活destined</h4>
+            </div> 
 
             <div class="text-container">
                 <h3>- Access from near airport</h3>
@@ -107,13 +107,13 @@
             </div>
 
             <div class="text-container">
-                <h3>- Commodity price</h3>
+                <h3 id="university">- Commodity price</h3>
                 <p>
                     外食は税込みで25ドルしないくらいです。チップは15％です。ご飯は基本おいしいです。アジアンマーケットがあり、韓国系と中国系が多いものの結構そろっています。
                 </p>
             </div>
 
-            <h4>・各大学（詳細情報）</h4>
+            <!-- university -->
 
             <div class="text-container">
                 <h3>- University of Wisconsin Stout</h3>

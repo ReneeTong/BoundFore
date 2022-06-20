@@ -22,14 +22,13 @@
                 <ul>
                     <a href="#part_one">Part 1</a>
                     <a href="#part_two">Part 2</a>
-                    <a href="">Universities</a>
+                    <a href="#university">Universities</a>
                 </ul>
             </div>
         </div>
 
-        <div class="body-container">
 
-        <div class="body-container">
+        <div class="body-container" id="part_one">
             <div class="text-container">
                 <h3 >- Race demographic</h3>
                 <p>
@@ -69,13 +68,15 @@
             </div>
 
             <div class="text-container">
-                <h3>- Culture/History　/h3>
+                <h3 id="part_two">- Culture/History　</h3>
                 <p>
                     近くにトランポリンパークや映画館があります。モールもあるのですが、車が無いとアクセスが厳しいです。</p>
             </div>
 
+            <!-- part 2 -->
+
             <div class="text-container">
-                <h3>- Transportation/Public Security　</h3>
+                <h3 >- Transportation/Public Security　</h3>
                 <p>
                     公共交通機関としてはバスが走っています。
                     <br>また、リフトやウーバーが多く使用されています。割と安全で、信頼度も高いです。スクーターとスケボーで移動する人も多く見かけます。
@@ -85,14 +86,7 @@
             </div>
 
             <div class="text-container">
-                <h3 id="part_two">- Access from airport</h3>
-                <p>
-                    リフトを使いました。
-                </p>
-            </div>
-
-            <div class="text-container">
-                <h3 >- Commodity price</h3>
+                <h3 id="university">- Commodity price</h3>
                 <p>
                     水道水は基本飲まないです。フィルターを使いましょう。
                     付近に大きなアジアンマーケットがあります。品ぞろいが良いので優秀です。
@@ -100,12 +94,7 @@
                 </p>
             </div>
 
-            <div class="text-container">
-                <h3>- Things you should have</h3>
-                <p>
-                    サングラス
-                </p>
-            </div>
+            <!-- university -->
 
             <div class="text-container">
                 <h3>- University</h3>
@@ -125,8 +114,6 @@
                     留学関係のオフィスに聞くと何でも答えてくれます。逆に聞かないと教えてもらえないです。日本人のコミュニティーがあるのでそこで情報収集するとよいです。
                 </p>
             </div>
-
-            <h4>・生活destined</h4>
 
             <div class="text-container">
                 <h3>- Associations</h3>

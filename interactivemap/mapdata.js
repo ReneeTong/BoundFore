@@ -171,14 +171,14 @@ var simplemaps_continentmap_mapdata={
       color: "default",
       url: "website/europe/sweden.php"
     },
-    "5": {
-      name: "United Kingdom",
-      lat: 54,
-      lng: 2,
-      description: "United Kingdom",
-      color: "default",
-      url: "website/europe/uk.php"
-    },
+    // "5": {
+    //   name: "United Kingdom",
+    //   lat: 54,
+    //   lng: 2,
+    //   description: "United Kingdom",
+    //   color: "default",
+    //   url: "website/europe/uk.php"
+    // },
     "6": {
       name: "California",
       lat: 37,
