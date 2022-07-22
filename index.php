@@ -17,7 +17,7 @@
         <div class="header-container">
             <img src="/images/earth.jpg" alt="">
             <div id="title">
-                <h1 style="background-color:black;">BoundFive</h1>
+                <h1>BoundFore</h1>
             </div>
         </div>
 
