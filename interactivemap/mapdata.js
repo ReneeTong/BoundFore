@@ -108,7 +108,7 @@ var simplemaps_continentmap_mapdata={
       url: "website/asia.php"
     },
     SS: {
-      name: "South Asia (Coming Soon)",
+      name: "Asia (Coming Soon)",
       description: "default",
       color: "#16132C",
       hover_color: "#BBF075",
